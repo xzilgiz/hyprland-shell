@@ -55,3 +55,20 @@ add
 exec-once = hyprland-shell.sh
 
 restart the session (or just reboot)
+
+## Gallery
+<img src="https://raw.githubusercontent.com/xzilgiz/hyprland-shell/refs/heads/main/.img/desktop.png">
+
+### Operations with running applications
+<img src="https://raw.githubusercontent.com/xzilgiz/hyprland-shell/refs/heads/main/.img/workspace_app_operations.png">
+<img src="https://raw.githubusercontent.com/xzilgiz/hyprland-shell/refs/heads/main/.img/app_operations.png">
+
+### Moving apps into categories
+<img src="https://raw.githubusercontent.com/xzilgiz/hyprland-shell/refs/heads/main/.img/launcher_app_to_category.png">
+<img src="https://raw.githubusercontent.com/xzilgiz/hyprland-shell/refs/heads/main/.img/launcher_app_to_dock.png">
+
+### Setting
+<img src="https://raw.githubusercontent.com/xzilgiz/hyprland-shell/refs/heads/main/.img/setting_base.png">
+<img src="https://raw.githubusercontent.com/xzilgiz/hyprland-shell/refs/heads/main/.img/setting_dock.png">
+<img src="https://raw.githubusercontent.com/xzilgiz/hyprland-shell/refs/heads/main/.img/setting_launcher.png">
+<img src="https://raw.githubusercontent.com/xzilgiz/hyprland-shell/refs/heads/main/.img/setting_modules.png">
